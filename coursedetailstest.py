@@ -13,15 +13,12 @@ semesters = {'Semester 1': 1, 'Semester 2': 2, 'Runs Throughout Semesters 1 and 
 bools = {'Yes': True, 'No': False}
 
 maindiv = soup.find('div', attrs={'class': 'maincontent'})
-title_code = maindiv.find('h1').text
-tc_list = title_code.split()
-title = " ".join(tc_list[0:len(tc_list)-1])
-code = tc_list[-1]
+tc_list = maindiv.find('h1').text.split()
 coursedetail = {}
-geninfo = maindiv.find_all('li')
-infos = [code, title]
+infos = [tc_list[-1], " ".join(tc_list[0:len(tc_list)-1])]
 keys = ['code', 'title', 'session', 'school', 'credits', 'level', 'offeredin', 'visiting', 'erasmus']
-for li in geninfo:
+
+for li in maindiv.find_all('li'):
     l = li.text.split(': ')
     if l[1] in levels.keys():
         infos.append(levels[l[1]])
@@ -36,6 +33,5 @@ for li in geninfo:
             infos.append(l[1])
 
 coursedetail = dict(zip(keys, infos))
-print(infos)
 for k, v in coursedetail.items():
     print(k, v)
