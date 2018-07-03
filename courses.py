@@ -4,8 +4,8 @@ import re
 import json
 
 mainurl = 'https://www.gla.ac.uk'
-
 subs = json.load(open('data/subjectareas.json'))
+
 for c, value in subs.items():
     suburl = value['url']
     r = requests.get(suburl)
@@ -15,6 +15,7 @@ for c, value in subs.items():
     maindiv = soup.find('div', attrs={'class': 'maincontent'})
     course_lists = maindiv.find_all('ul')
     cses = []
+
     for ul in course_lists:
         cses[0:0] = ul.find_all('a')
     
