@@ -27,3 +27,4 @@ for c, value in subs.items():
     path = 'data/' + c.lower() + '.json'
     f = open(path, 'w+')
     json.dump(courses, f)
+
