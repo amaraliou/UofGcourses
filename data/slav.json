@@ -1,1 +1,70 @@
-{"SLAV5003": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV5003", "title": "The Cinema Of Communist And Post-Communist Europe SLAV5003"}, "SLAV4009": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4009", "title": "The Mass Media In Central/Eastern Europe SLAV4009"}, "SLAV4010": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4010", "title": "The Slavonic Languages SLAV4010"}, "SLAV4040": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4040", "title": "Nation-Building in Central Europe, 1600-2010: A Comparative Case Study SLAV4040"}, "SLAV4041": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4041", "title": "Holocaust Literature and Film SLAV4041"}, "SLAV4042": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4042", "title": "Czech and Polish Literature from the Early Modern to the Romantic Age SLAV4042"}, "SLAV4043": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4043", "title": "Russian and East European Cinema SLAV4043"}, "SLAV4001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4001", "title": "Censorship In Western Culture SLAV4001"}, "SLAV4002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4002", "title": "Domesticating The Dictators:Women's Writing Under Stalin And Franco SLAV4002"}, "SLAV4003": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4003", "title": "Further Issues Concerning The Mass Media In  Central  And Eastern Europe SLAV4003"}, "SLAV4030": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4030", "title": "The Culture of Commitment: Czech and Polish Culture, 1918-1989 SLAV4030"}, "SLAV4005": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4005", "title": "Power And Culture In The Ussr And Post-Soviet Russia SLAV4005"}, "SLAV4007": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4007", "title": "Slavonic Drama SLAV4007"}, "SLAV5010": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV5010", "title": "Reading the 'New Europe' SLAV5010"}, "SLAV5002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV5002", "title": "Slovak For Social Scientists (Beginners) SLAV5002"}, "SLAV4045": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4045", "title": "Word and Image in the Communist and Post-Communist World SLAV4045"}, "SLAV5004": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV5004", "title": "The Mass Media Of Communist And Post-Communist Europe SLAV5004"}}
+{
+    "SLAV5003": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV5003",
+        "title": "The Cinema Of Communist And Post-Communist Europe SLAV5003"
+    },
+    "SLAV4009": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4009",
+        "title": "The Mass Media In Central/Eastern Europe SLAV4009"
+    },
+    "SLAV4010": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4010",
+        "title": "The Slavonic Languages SLAV4010"
+    },
+    "SLAV4040": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4040",
+        "title": "Nation-Building in Central Europe, 1600-2010: A Comparative Case Study SLAV4040"
+    },
+    "SLAV4041": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4041",
+        "title": "Holocaust Literature and Film SLAV4041"
+    },
+    "SLAV4042": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4042",
+        "title": "Czech and Polish Literature from the Early Modern to the Romantic Age SLAV4042"
+    },
+    "SLAV4043": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4043",
+        "title": "Russian and East European Cinema SLAV4043"
+    },
+    "SLAV4001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4001",
+        "title": "Censorship In Western Culture SLAV4001"
+    },
+    "SLAV4002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4002",
+        "title": "Domesticating The Dictators:Women's Writing Under Stalin And Franco SLAV4002"
+    },
+    "SLAV4003": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4003",
+        "title": "Further Issues Concerning The Mass Media In  Central  And Eastern Europe SLAV4003"
+    },
+    "SLAV4030": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4030",
+        "title": "The Culture of Commitment: Czech and Polish Culture, 1918-1989 SLAV4030"
+    },
+    "SLAV4005": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4005",
+        "title": "Power And Culture In The Ussr And Post-Soviet Russia SLAV4005"
+    },
+    "SLAV4007": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4007",
+        "title": "Slavonic Drama SLAV4007"
+    },
+    "SLAV5010": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV5010",
+        "title": "Reading the 'New Europe' SLAV5010"
+    },
+    "SLAV5002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV5002",
+        "title": "Slovak For Social Scientists (Beginners) SLAV5002"
+    },
+    "SLAV4045": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV4045",
+        "title": "Word and Image in the Communist and Post-Communist World SLAV4045"
+    },
+    "SLAV5004": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=SLAV5004",
+        "title": "The Mass Media Of Communist And Post-Communist Europe SLAV5004"
+    }
+}

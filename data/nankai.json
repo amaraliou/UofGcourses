@@ -1,1 +1,10 @@
-{"NANKAI5005": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=NANKAI5005", "title": "Mandarin Advanced Translation and Language Study 1 (Nankai) NANKAI5005"}, "NANKAI5017": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=NANKAI5017", "title": "Mandarin Advanced Translation and Language Study 2 (Nankai) NANKAI5017"}}
+{
+    "NANKAI5005": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=NANKAI5005",
+        "title": "Mandarin Advanced Translation and Language Study 1 (Nankai) NANKAI5005"
+    },
+    "NANKAI5017": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=NANKAI5017",
+        "title": "Mandarin Advanced Translation and Language Study 2 (Nankai) NANKAI5017"
+    }
+}

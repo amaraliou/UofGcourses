@@ -1,1 +1,126 @@
-{"EARTH4003": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4003", "title": "Earth Science:Independent Geological Mapping EARTH4003"}, "EARTH4018": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4018", "title": "Micropalaeontology EARTH4018"}, "EARTH4050": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4050", "title": "Digital Geoscience EARTH4050"}, "EARTH4039": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4039", "title": "Hydrogeology and Environmental Geosciences EARTH4039"}, "EARTH4013": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4013", "title": "Igneous Petrology & Geochemistry EARTH4013"}, "EARTH4016": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4016", "title": "Major Earth Processes EARTH4016"}, "EARTH4017": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4017", "title": "Metamorphic Petrology EARTH4017"}, "EARTH4014": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4014", "title": "Isotope Geology EARTH4014"}, "EARTH4002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4002", "title": "Earth Science:Geological Field Skills EARTH4002"}, "EARTH4005": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4005", "title": "Economic Minerals EARTH4005"}, "EARTH4004": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4004", "title": "Earth Science:Independent Research Project EARTH4004"}, "EARTH2003": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH2003", "title": "Earth Science 2R: Sediments And Stratigraphy EARTH2003"}, "EARTH2002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH2002", "title": "Earth Science 2Q: Palaeobiology EARTH2002"}, "EARTH2001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH2001", "title": "Earth Science 2P: Solid Earth EARTH2001"}, "EARTH4006": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4006", "title": "Engineering Earth Science EARTH4006"}, "EARTH2004": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH2004", "title": "Earth Science 2U - Structure, Maps And Exploration EARTH2004"}, "EARTH4069": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4069", "title": "Geo-Problem Solving EARTH4069"}, "EARTH4068": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4068", "title": "Macrogeomorphology EARTH4068"}, "EARTH1002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH1002", "title": "Earth Science & The Environment 1Y:Towards a Sustainable Future EARTH1002"}, "EARTH4070": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4070", "title": "Summer Research Project (Arcadia) EARTH4070"}, "EARTH4009": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4009", "title": "Geophysics EARTH4009"}, "EARTH1001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH1001", "title": "Earth Science & The Environment 1X:Planet Earth EARTH1001"}, "EARTH3010": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH3010", "title": "The Geology of Scotland - Earth Science International Summer School EARTH3010"}, "EARTH4001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4001", "title": "Advanced Sequence Stratigraphy EARTH4001"}, "EARTH4026": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4026", "title": "Tectonic Geomorphology EARTH4026"}, "EARTH4025": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4025", "title": "Structural Geology EARTH4025"}, "EARTH4024": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4024", "title": "Stratigraphy EARTH4024"}, "EARTH4023": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4023", "title": "Sedimentary Geology EARTH4023"}, "EARTH4022": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4022", "title": "Petroleum Geology EARTH4022"}, "EARTH4021": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4021", "title": "Palaeoclimatology EARTH4021"}, "EARTH4020": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4020", "title": "Orogens And Basins EARTH4020"}}
+{
+    "EARTH4003": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4003",
+        "title": "Earth Science:Independent Geological Mapping EARTH4003"
+    },
+    "EARTH4018": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4018",
+        "title": "Micropalaeontology EARTH4018"
+    },
+    "EARTH4050": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4050",
+        "title": "Digital Geoscience EARTH4050"
+    },
+    "EARTH4039": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4039",
+        "title": "Hydrogeology and Environmental Geosciences EARTH4039"
+    },
+    "EARTH4013": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4013",
+        "title": "Igneous Petrology & Geochemistry EARTH4013"
+    },
+    "EARTH4016": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4016",
+        "title": "Major Earth Processes EARTH4016"
+    },
+    "EARTH4017": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4017",
+        "title": "Metamorphic Petrology EARTH4017"
+    },
+    "EARTH4014": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4014",
+        "title": "Isotope Geology EARTH4014"
+    },
+    "EARTH4002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4002",
+        "title": "Earth Science:Geological Field Skills EARTH4002"
+    },
+    "EARTH4005": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4005",
+        "title": "Economic Minerals EARTH4005"
+    },
+    "EARTH4004": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4004",
+        "title": "Earth Science:Independent Research Project EARTH4004"
+    },
+    "EARTH2003": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH2003",
+        "title": "Earth Science 2R: Sediments And Stratigraphy EARTH2003"
+    },
+    "EARTH2002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH2002",
+        "title": "Earth Science 2Q: Palaeobiology EARTH2002"
+    },
+    "EARTH2001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH2001",
+        "title": "Earth Science 2P: Solid Earth EARTH2001"
+    },
+    "EARTH4006": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4006",
+        "title": "Engineering Earth Science EARTH4006"
+    },
+    "EARTH2004": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH2004",
+        "title": "Earth Science 2U - Structure, Maps And Exploration EARTH2004"
+    },
+    "EARTH4069": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4069",
+        "title": "Geo-Problem Solving EARTH4069"
+    },
+    "EARTH4068": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4068",
+        "title": "Macrogeomorphology EARTH4068"
+    },
+    "EARTH1002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH1002",
+        "title": "Earth Science & The Environment 1Y:Towards a Sustainable Future EARTH1002"
+    },
+    "EARTH4070": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4070",
+        "title": "Summer Research Project (Arcadia) EARTH4070"
+    },
+    "EARTH4009": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4009",
+        "title": "Geophysics EARTH4009"
+    },
+    "EARTH1001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH1001",
+        "title": "Earth Science & The Environment 1X:Planet Earth EARTH1001"
+    },
+    "EARTH3010": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH3010",
+        "title": "The Geology of Scotland - Earth Science International Summer School EARTH3010"
+    },
+    "EARTH4001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4001",
+        "title": "Advanced Sequence Stratigraphy EARTH4001"
+    },
+    "EARTH4026": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4026",
+        "title": "Tectonic Geomorphology EARTH4026"
+    },
+    "EARTH4025": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4025",
+        "title": "Structural Geology EARTH4025"
+    },
+    "EARTH4024": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4024",
+        "title": "Stratigraphy EARTH4024"
+    },
+    "EARTH4023": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4023",
+        "title": "Sedimentary Geology EARTH4023"
+    },
+    "EARTH4022": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4022",
+        "title": "Petroleum Geology EARTH4022"
+    },
+    "EARTH4021": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4021",
+        "title": "Palaeoclimatology EARTH4021"
+    },
+    "EARTH4020": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=EARTH4020",
+        "title": "Orogens And Basins EARTH4020"
+    }
+}

@@ -1,1 +1,98 @@
-{"ASTRO4001P": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4001P", "title": "Astronomy Laboratory 1 ASTRO4001P"}, "ASTRO4003P": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4003P", "title": "Astronomy Skills 1 ASTRO4003P"}, "ASTRO4005": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4005", "title": "Heliophysics and Stellar Atmospheres ASTRO4005"}, "ASTRO4006": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4006", "title": "Cosmology ASTRO4006"}, "ASTRO4007": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4007", "title": "Exploring Planetary Systems ASTRO4007"}, "ASTRO4008": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4008", "title": "Galaxies ASTRO4008"}, "ASTRO4009": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4009", "title": "High Energy Astrophysics ASTRO4009"}, "ASTRO4020P": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4020P", "title": "Astronomy Project for 4M Students ASTRO4020P"}, "ASTRO5004": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO5004", "title": "Plasma Theory and Diagnostics ASTRO5004"}, "ASTRO5003": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO5003", "title": "Statistical Astronomy ASTRO5003"}, "ASTRO5002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO5002", "title": "Pulsars and Supernovae ASTRO5002"}, "ASTRO5001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO5001", "title": "General Relativity and Gravitation ASTRO5001"}, "ASTRO2002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO2002", "title": "Astronomy 2(Half) ASTRO2002"}, "ASTRO2001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO2001", "title": "Astronomy 2 ASTRO2001"}, "ASTRO4002P": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4002P", "title": "Astronomy Laboratory 2 ASTRO4002P"}, "ASTRO4004P": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4004P", "title": "Astronomy Skills 2 ASTRO4004P"}, "ASTRO4013": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4013", "title": "Astronomical Data Analysis ASTRO4013"}, "ASTRO4011": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4011", "title": "Stellar Structure and Evolution ASTRO4011"}, "ASTRO4010": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4010", "title": "Instruments for Optical and Radio Astronomy ASTRO4010"}, "ASTRO1003": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO1003", "title": "Exploring the Cosmos 1X ASTRO1003"}, "ASTRO1002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO1002", "title": "Astronomy 1(Half) ASTRO1002"}, "ASTRO1001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO1001", "title": "Astronomy 1 ASTRO1001"}, "ASTRO1004": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO1004", "title": "Exploring the Cosmos 1Y ASTRO1004"}, "ASTRO5010": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO5010", "title": "The Sun's Atmosphere ASTRO5010"}}
+{
+    "ASTRO4001P": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4001P",
+        "title": "Astronomy Laboratory 1 ASTRO4001P"
+    },
+    "ASTRO4003P": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4003P",
+        "title": "Astronomy Skills 1 ASTRO4003P"
+    },
+    "ASTRO4005": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4005",
+        "title": "Heliophysics and Stellar Atmospheres ASTRO4005"
+    },
+    "ASTRO4006": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4006",
+        "title": "Cosmology ASTRO4006"
+    },
+    "ASTRO4007": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4007",
+        "title": "Exploring Planetary Systems ASTRO4007"
+    },
+    "ASTRO4008": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4008",
+        "title": "Galaxies ASTRO4008"
+    },
+    "ASTRO4009": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4009",
+        "title": "High Energy Astrophysics ASTRO4009"
+    },
+    "ASTRO4020P": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4020P",
+        "title": "Astronomy Project for 4M Students ASTRO4020P"
+    },
+    "ASTRO5004": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO5004",
+        "title": "Plasma Theory and Diagnostics ASTRO5004"
+    },
+    "ASTRO5003": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO5003",
+        "title": "Statistical Astronomy ASTRO5003"
+    },
+    "ASTRO5002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO5002",
+        "title": "Pulsars and Supernovae ASTRO5002"
+    },
+    "ASTRO5001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO5001",
+        "title": "General Relativity and Gravitation ASTRO5001"
+    },
+    "ASTRO2002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO2002",
+        "title": "Astronomy 2(Half) ASTRO2002"
+    },
+    "ASTRO2001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO2001",
+        "title": "Astronomy 2 ASTRO2001"
+    },
+    "ASTRO4002P": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4002P",
+        "title": "Astronomy Laboratory 2 ASTRO4002P"
+    },
+    "ASTRO4004P": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4004P",
+        "title": "Astronomy Skills 2 ASTRO4004P"
+    },
+    "ASTRO4013": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4013",
+        "title": "Astronomical Data Analysis ASTRO4013"
+    },
+    "ASTRO4011": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4011",
+        "title": "Stellar Structure and Evolution ASTRO4011"
+    },
+    "ASTRO4010": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO4010",
+        "title": "Instruments for Optical and Radio Astronomy ASTRO4010"
+    },
+    "ASTRO1003": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO1003",
+        "title": "Exploring the Cosmos 1X ASTRO1003"
+    },
+    "ASTRO1002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO1002",
+        "title": "Astronomy 1(Half) ASTRO1002"
+    },
+    "ASTRO1001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO1001",
+        "title": "Astronomy 1 ASTRO1001"
+    },
+    "ASTRO1004": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO1004",
+        "title": "Exploring the Cosmos 1Y ASTRO1004"
+    },
+    "ASTRO5010": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ASTRO5010",
+        "title": "The Sun's Atmosphere ASTRO5010"
+    }
+}

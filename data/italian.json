@@ -1,1 +1,142 @@
-{"ITALIAN5011": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5011", "title": "PG Non-Beginner Elementary Italian ITALIAN5011"}, "ITALIAN5003": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5003", "title": "Italian Advanced Translation and Language Study 1 ITALIAN5003"}, "ITALIAN4010": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4010", "title": "Modern Italian Poetry ITALIAN4010"}, "ITALIAN4002P": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4002P", "title": "Italian Dissertation ITALIAN4002P"}, "ITALIAN4050": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4050", "title": "Accountancy with Langs (Italian) ITALIAN4050"}, "ITALIAN1009": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN1009", "title": "Italian 1 Beginners (Early Exit) ITALIAN1009"}, "ITALIAN5013": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5013", "title": "English into Italian Advanced Translation and Language Study 2 ITALIAN5013"}, "ITALIAN5012": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5012", "title": "English into Italian Advanced Translation and Language Study 1 ITALIAN5012"}, "ITALIAN4056": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4056", "title": "Italian Cinema: Migration, Displacement and Exile in Films and Documentaries ITALIAN4056"}, "ITALIAN5010": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5010", "title": "PG Intermediate Italian ITALIAN5010"}, "ITALIAN1003": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN1003", "title": "Italian Culture 1 (Non-Beginners) ITALIAN1003"}, "ITALIAN1004": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN1004", "title": "Italian Language 1 (Beginners) ITALIAN1004"}, "ITALIAN1005": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN1005", "title": "Italian Language 1 (Non-Beginners) ITALIAN1005"}, "ITALIAN3002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN3002", "title": "Italian 3 Language ITALIAN3002"}, "ITALIAN3001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN3001", "title": "Italian 3 Language and Culture ITALIAN3001"}, "ITALIAN4006": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4006", "title": "Italian Senior Honours Language Project: Contemporary Society ITALIAN4006"}, "ITALIAN4005": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4005", "title": "Italian Resistance To Fascism 1943-45 ITALIAN4005"}, "ITALIAN4004": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4004", "title": "Italian Modernism: Svevo And Pirandello ITALIAN4004"}, "ITALIAN4003": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4003", "title": "Italian Junior Honours Language Project: Region And Culture ITALIAN4003"}, "ITALIAN5004": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5004", "title": "Italian Advanced Translation and Language Study 2 ITALIAN5004"}, "ITALIAN5007": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5007", "title": "PG Advanced Italian ITALIAN5007"}, "ITALIAN4047": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4047", "title": "Italian Honours Written Language (Senior) ITALIAN4047"}, "ITALIAN4046": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4046", "title": "Italian Honours Written Language (Junior) ITALIAN4046"}, "ITALIAN4045": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4045", "title": "Italian Honours Spoken Language (year 1 exit) ITALIAN4045"}, "ITALIAN4044": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4044", "title": "Italian Honours Spoken Language (Senior) ITALIAN4044"}, "ITALIAN4049": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4049", "title": "Italian Honours Subsidiary Language (Non-Arts) ITALIAN4049"}, "ITALIAN4048": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4048", "title": "Italian Honours Written Language (year 1 exit) ITALIAN4048"}, "ITALIAN5008": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5008", "title": "PG BEGINNER ITALIAN 1 ITALIAN5008"}, "ITALIAN5009": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5009", "title": "PG BEGINNER ITALIAN 2 ITALIAN5009"}, "ITALIAN4043": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4043", "title": "Italian Honours Spoken Language (Junior) ITALIAN4043"}, "ITALIAN4012": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4012", "title": "Women In Modern Italy ITALIAN4012"}, "ITALIAN2012": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN2012", "title": "ITALIAN YEAR ABROAD ASSISTANT ITALIAN2012"}, "ITALIAN2013": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN2013", "title": "ITALIAN YEAR ABROAD STUDENT ITALIAN2013"}, "ITALIAN2010": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN2010", "title": "Italian Culture 2 ITALIAN2010"}, "ITALIAN2011": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN2011", "title": "Italian Language 2 ITALIAN2011"}}
+{
+    "ITALIAN5011": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5011",
+        "title": "PG Non-Beginner Elementary Italian ITALIAN5011"
+    },
+    "ITALIAN5003": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5003",
+        "title": "Italian Advanced Translation and Language Study 1 ITALIAN5003"
+    },
+    "ITALIAN4010": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4010",
+        "title": "Modern Italian Poetry ITALIAN4010"
+    },
+    "ITALIAN4002P": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4002P",
+        "title": "Italian Dissertation ITALIAN4002P"
+    },
+    "ITALIAN4050": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4050",
+        "title": "Accountancy with Langs (Italian) ITALIAN4050"
+    },
+    "ITALIAN1009": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN1009",
+        "title": "Italian 1 Beginners (Early Exit) ITALIAN1009"
+    },
+    "ITALIAN5013": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5013",
+        "title": "English into Italian Advanced Translation and Language Study 2 ITALIAN5013"
+    },
+    "ITALIAN5012": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5012",
+        "title": "English into Italian Advanced Translation and Language Study 1 ITALIAN5012"
+    },
+    "ITALIAN4056": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4056",
+        "title": "Italian Cinema: Migration, Displacement and Exile in Films and Documentaries ITALIAN4056"
+    },
+    "ITALIAN5010": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5010",
+        "title": "PG Intermediate Italian ITALIAN5010"
+    },
+    "ITALIAN1003": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN1003",
+        "title": "Italian Culture 1 (Non-Beginners) ITALIAN1003"
+    },
+    "ITALIAN1004": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN1004",
+        "title": "Italian Language 1 (Beginners) ITALIAN1004"
+    },
+    "ITALIAN1005": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN1005",
+        "title": "Italian Language 1 (Non-Beginners) ITALIAN1005"
+    },
+    "ITALIAN3002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN3002",
+        "title": "Italian 3 Language ITALIAN3002"
+    },
+    "ITALIAN3001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN3001",
+        "title": "Italian 3 Language and Culture ITALIAN3001"
+    },
+    "ITALIAN4006": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4006",
+        "title": "Italian Senior Honours Language Project: Contemporary Society ITALIAN4006"
+    },
+    "ITALIAN4005": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4005",
+        "title": "Italian Resistance To Fascism 1943-45 ITALIAN4005"
+    },
+    "ITALIAN4004": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4004",
+        "title": "Italian Modernism: Svevo And Pirandello ITALIAN4004"
+    },
+    "ITALIAN4003": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4003",
+        "title": "Italian Junior Honours Language Project: Region And Culture ITALIAN4003"
+    },
+    "ITALIAN5004": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5004",
+        "title": "Italian Advanced Translation and Language Study 2 ITALIAN5004"
+    },
+    "ITALIAN5007": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5007",
+        "title": "PG Advanced Italian ITALIAN5007"
+    },
+    "ITALIAN4047": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4047",
+        "title": "Italian Honours Written Language (Senior) ITALIAN4047"
+    },
+    "ITALIAN4046": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4046",
+        "title": "Italian Honours Written Language (Junior) ITALIAN4046"
+    },
+    "ITALIAN4045": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4045",
+        "title": "Italian Honours Spoken Language (year 1 exit) ITALIAN4045"
+    },
+    "ITALIAN4044": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4044",
+        "title": "Italian Honours Spoken Language (Senior) ITALIAN4044"
+    },
+    "ITALIAN4049": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4049",
+        "title": "Italian Honours Subsidiary Language (Non-Arts) ITALIAN4049"
+    },
+    "ITALIAN4048": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4048",
+        "title": "Italian Honours Written Language (year 1 exit) ITALIAN4048"
+    },
+    "ITALIAN5008": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5008",
+        "title": "PG BEGINNER ITALIAN 1 ITALIAN5008"
+    },
+    "ITALIAN5009": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN5009",
+        "title": "PG BEGINNER ITALIAN 2 ITALIAN5009"
+    },
+    "ITALIAN4043": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4043",
+        "title": "Italian Honours Spoken Language (Junior) ITALIAN4043"
+    },
+    "ITALIAN4012": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN4012",
+        "title": "Women In Modern Italy ITALIAN4012"
+    },
+    "ITALIAN2012": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN2012",
+        "title": "ITALIAN YEAR ABROAD ASSISTANT ITALIAN2012"
+    },
+    "ITALIAN2013": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN2013",
+        "title": "ITALIAN YEAR ABROAD STUDENT ITALIAN2013"
+    },
+    "ITALIAN2010": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN2010",
+        "title": "Italian Culture 2 ITALIAN2010"
+    },
+    "ITALIAN2011": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=ITALIAN2011",
+        "title": "Italian Language 2 ITALIAN2011"
+    }
+}

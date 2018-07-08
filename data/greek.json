@@ -1,1 +1,122 @@
-{"GREEK2010": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK2010", "title": "Greek 2C GREEK2010"}, "GREEK2011": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK2011", "title": "Greek 2D GREEK2011"}, "GREEK4012": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4012", "title": "Greek Lyric, Elegiac, And Iambic Poetry GREEK4012"}, "GREEK4013": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4013", "title": "Greek Oratory GREEK4013"}, "GREEK4011": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4011", "title": "Greek Comedy GREEK4011"}, "GREEK1002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK1002", "title": "Greek 1B GREEK1002"}, "GREEK4014": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4014", "title": "Greek Prose Style GREEK4014"}, "GREEK1001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK1001", "title": "Greek 1A GREEK1001"}, "GREEK5011": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5011", "title": "Hellenistic Poetry GREEK5011"}, "GREEK5010": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5010", "title": "Greek Tragedy (Linguistic Pathway) GREEK5010"}, "GREEK5013": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5013", "title": "Thucydides GREEK5013"}, "GREEK5012": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5012", "title": "Rome And The Mediterranean, 264-80 BC (Greek) GREEK5012"}, "GREEK2002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK2002", "title": "Greek 2B GREEK2002"}, "GREEK2001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK2001", "title": "Greek 2A GREEK2001"}, "GREEK4003": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4003", "title": "Basic Greek For Honours 1 GREEK4003"}, "GREEK4002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4002", "title": "Advanced Greek For Honours 2 GREEK4002"}, "GREEK4001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4001", "title": "Advanced Greek For Honours 1 GREEK4001"}, "GREEK5008": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5008", "title": "Greek And Roman Mime (Greek) GREEK5008"}, "GREEK5009": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5009", "title": "Greek Comedy (Linguistic Pathway) GREEK5009"}, "GREEK4004": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4004", "title": "Basic Greek For Honours 2 GREEK4004"}, "GREEK4007": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4007", "title": "Greek Historiography GREEK4007"}, "GREEK4006": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4006", "title": "Greek Epic GREEK4006"}, "GREEK5002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5002", "title": "Advanced Greek For Postgraduates 2 GREEK5002"}, "GREEK5003": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5003", "title": "Basic Greek For Postgraduates 1 GREEK5003"}, "GREEK5001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5001", "title": "Advanced Greek For Postgraduates 1 GREEK5001"}, "GREEK5006": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5006", "title": "Further Topic In Greek 1 GREEK5006"}, "GREEK5007": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5007", "title": "Further Topic In Greek 2 GREEK5007"}, "GREEK5004": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5004", "title": "Basic Greek For Postgraduates 2 GREEK5004"}, "GREEK4009": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4009", "title": "Greek Unprepared Translation (Senior Honours) GREEK4009"}, "GREEK4008": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4008", "title": "Greek Tragedy GREEK4008"}}
+{
+    "GREEK2010": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK2010",
+        "title": "Greek 2C GREEK2010"
+    },
+    "GREEK2011": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK2011",
+        "title": "Greek 2D GREEK2011"
+    },
+    "GREEK4012": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4012",
+        "title": "Greek Lyric, Elegiac, And Iambic Poetry GREEK4012"
+    },
+    "GREEK4013": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4013",
+        "title": "Greek Oratory GREEK4013"
+    },
+    "GREEK4011": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4011",
+        "title": "Greek Comedy GREEK4011"
+    },
+    "GREEK1002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK1002",
+        "title": "Greek 1B GREEK1002"
+    },
+    "GREEK4014": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4014",
+        "title": "Greek Prose Style GREEK4014"
+    },
+    "GREEK1001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK1001",
+        "title": "Greek 1A GREEK1001"
+    },
+    "GREEK5011": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5011",
+        "title": "Hellenistic Poetry GREEK5011"
+    },
+    "GREEK5010": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5010",
+        "title": "Greek Tragedy (Linguistic Pathway) GREEK5010"
+    },
+    "GREEK5013": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5013",
+        "title": "Thucydides GREEK5013"
+    },
+    "GREEK5012": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5012",
+        "title": "Rome And The Mediterranean, 264-80 BC (Greek) GREEK5012"
+    },
+    "GREEK2002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK2002",
+        "title": "Greek 2B GREEK2002"
+    },
+    "GREEK2001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK2001",
+        "title": "Greek 2A GREEK2001"
+    },
+    "GREEK4003": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4003",
+        "title": "Basic Greek For Honours 1 GREEK4003"
+    },
+    "GREEK4002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4002",
+        "title": "Advanced Greek For Honours 2 GREEK4002"
+    },
+    "GREEK4001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4001",
+        "title": "Advanced Greek For Honours 1 GREEK4001"
+    },
+    "GREEK5008": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5008",
+        "title": "Greek And Roman Mime (Greek) GREEK5008"
+    },
+    "GREEK5009": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5009",
+        "title": "Greek Comedy (Linguistic Pathway) GREEK5009"
+    },
+    "GREEK4004": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4004",
+        "title": "Basic Greek For Honours 2 GREEK4004"
+    },
+    "GREEK4007": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4007",
+        "title": "Greek Historiography GREEK4007"
+    },
+    "GREEK4006": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4006",
+        "title": "Greek Epic GREEK4006"
+    },
+    "GREEK5002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5002",
+        "title": "Advanced Greek For Postgraduates 2 GREEK5002"
+    },
+    "GREEK5003": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5003",
+        "title": "Basic Greek For Postgraduates 1 GREEK5003"
+    },
+    "GREEK5001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5001",
+        "title": "Advanced Greek For Postgraduates 1 GREEK5001"
+    },
+    "GREEK5006": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5006",
+        "title": "Further Topic In Greek 1 GREEK5006"
+    },
+    "GREEK5007": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5007",
+        "title": "Further Topic In Greek 2 GREEK5007"
+    },
+    "GREEK5004": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK5004",
+        "title": "Basic Greek For Postgraduates 2 GREEK5004"
+    },
+    "GREEK4009": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4009",
+        "title": "Greek Unprepared Translation (Senior Honours) GREEK4009"
+    },
+    "GREEK4008": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=GREEK4008",
+        "title": "Greek Tragedy GREEK4008"
+    }
+}

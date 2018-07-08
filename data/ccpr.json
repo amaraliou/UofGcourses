@@ -1,1 +1,26 @@
-{"CCPR5007": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=CCPR5007", "title": "Research Methods 1 (CCPR) CCPR5007"}, "CCPR5006P": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=CCPR5006P", "title": "Creative Industries and Cultural Policy Dissertation CCPR5006P"}, "CCPR5002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=CCPR5002", "title": "Creative Lives and Cultural Industries (Creative Industries and Cultural Policy - Core 2) CCPR5002"}, "CCPR5001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=CCPR5001", "title": "Creative Industries and Cultural Policy - Core 1 CCPR5001"}, "CCPR5009": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=CCPR5009", "title": "Regulation, Policy and the Creative Economy CCPR5009"}, "CCPR5008": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=CCPR5008", "title": "Research Methods 2 (CCPR) CCPR5008"}}
+{
+    "CCPR5007": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=CCPR5007",
+        "title": "Research Methods 1 (CCPR) CCPR5007"
+    },
+    "CCPR5006P": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=CCPR5006P",
+        "title": "Creative Industries and Cultural Policy Dissertation CCPR5006P"
+    },
+    "CCPR5002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=CCPR5002",
+        "title": "Creative Lives and Cultural Industries (Creative Industries and Cultural Policy - Core 2) CCPR5002"
+    },
+    "CCPR5001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=CCPR5001",
+        "title": "Creative Industries and Cultural Policy - Core 1 CCPR5001"
+    },
+    "CCPR5009": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=CCPR5009",
+        "title": "Regulation, Policy and the Creative Economy CCPR5009"
+    },
+    "CCPR5008": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=CCPR5008",
+        "title": "Research Methods 2 (CCPR) CCPR5008"
+    }
+}

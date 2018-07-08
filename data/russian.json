@@ -1,1 +1,142 @@
-{"RUSSIAN2010": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN2010", "title": "RUSSIAN YEAR ABROAD STUDENT RUSSIAN2010"}, "RUSSIAN5030": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5030", "title": "Russian for Social Scientists Advanced Semester 2 RUSSIAN5030"}, "RUSSIAN1002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN1002", "title": "Russian 1 (Early Exit) RUSSIAN1002"}, "RUSSIAN1001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN1001", "title": "Russian 1 RUSSIAN1001"}, "RUSSIAN4038": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4038", "title": "Russian Literature and State Power RUSSIAN4038"}, "RUSSIAN5017": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5017", "title": "Russian Advanced Translation and Language Study 1 RUSSIAN5017"}, "RUSSIAN5018": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5018", "title": "Russian Advanced Translation and Language Study 2 RUSSIAN5018"}, "RUSSIAN4004P": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4004P", "title": "Russian Dissertation RUSSIAN4004P"}, "RUSSIAN4037": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4037", "title": "Accountancy with Langs (Russian) RUSSIAN4037"}, "RUSSIAN4036": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4036", "title": "Russian Honours Subsidiary Language (Non-Arts) RUSSIAN4036"}, "RUSSIAN4031": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4031", "title": "Russian Honours Spoken Language (Senior) RUSSIAN4031"}, "RUSSIAN4030": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4030", "title": "Russian Honours Spoken Language (Junior) RUSSIAN4030"}, "RUSSIAN4033": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4033", "title": "Russian Honours Written Language (Junior) RUSSIAN4033"}, "RUSSIAN4032": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4032", "title": "Russian Honours Spoken Language (year 1 exit) RUSSIAN4032"}, "RUSSIAN3001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN3001", "title": "Russian 3 Language and Culture RUSSIAN3001"}, "RUSSIAN4008": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4008", "title": "The Russian Novel RUSSIAN4008"}, "RUSSIAN3002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN3002", "title": "Russian 3 Language RUSSIAN3002"}, "RUSSIAN4009": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4009", "title": "The Russian Novel In English Translation RUSSIAN4009"}, "RUSSIAN2002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN2002", "title": "Russian 2 (January Exit) RUSSIAN2002"}, "RUSSIAN2001": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN2001", "title": "Russian 2 RUSSIAN2001"}, "RUSSIAN5007": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5007", "title": "Russian For Social Scientists (Post-Intermediate) RUSSIAN5007"}, "RUSSIAN5025": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5025", "title": "English into Russian Advanced Translation and Language Study 1 RUSSIAN5025"}, "RUSSIAN5024": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5024", "title": "PG Intermediate Russian RUSSIAN5024"}, "RUSSIAN5026": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5026", "title": "English into Russian Advanced Translation and Language Study 2 RUSSIAN5026"}, "RUSSIAN5021": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5021", "title": "PG Advanced Russian RUSSIAN5021"}, "RUSSIAN5023": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5023", "title": "PG BEGINNER RUSSIAN 2 RUSSIAN5023"}, "RUSSIAN5022": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5022", "title": "PG BEGINNER RUSSIAN 1 RUSSIAN5022"}, "RUSSIAN4002": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4002", "title": "Russian 20th Century Visual Culture RUSSIAN4002"}, "RUSSIAN5004": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5004", "title": "Russian For Social Scientists (Advanced) RUSSIAN5004"}, "RUSSIAN5029": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5029", "title": "Russian for Social Scientists Post- Intermediate Semester 2 RUSSIAN5029"}, "RUSSIAN4005": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4005", "title": "Russian Poetry, Drama & Shorter Prose RUSSIAN4005"}, "RUSSIAN4006": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4006", "title": "Subsidiary Russian Language (Beginners) RUSSIAN4006"}, "RUSSIAN4007": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4007", "title": "Subsidiary Russian Language (Intermediate) RUSSIAN4007"}, "RUSSIAN4035": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4035", "title": "Russian Honours Written Language (year 1 exit) RUSSIAN4035"}, "RUSSIAN4034": {"url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4034", "title": "Russian Honours Written Language (Senior) RUSSIAN4034"}}
+{
+    "RUSSIAN2010": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN2010",
+        "title": "RUSSIAN YEAR ABROAD STUDENT RUSSIAN2010"
+    },
+    "RUSSIAN5030": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5030",
+        "title": "Russian for Social Scientists Advanced Semester 2 RUSSIAN5030"
+    },
+    "RUSSIAN1002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN1002",
+        "title": "Russian 1 (Early Exit) RUSSIAN1002"
+    },
+    "RUSSIAN1001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN1001",
+        "title": "Russian 1 RUSSIAN1001"
+    },
+    "RUSSIAN4038": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4038",
+        "title": "Russian Literature and State Power RUSSIAN4038"
+    },
+    "RUSSIAN5017": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5017",
+        "title": "Russian Advanced Translation and Language Study 1 RUSSIAN5017"
+    },
+    "RUSSIAN5018": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5018",
+        "title": "Russian Advanced Translation and Language Study 2 RUSSIAN5018"
+    },
+    "RUSSIAN4004P": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4004P",
+        "title": "Russian Dissertation RUSSIAN4004P"
+    },
+    "RUSSIAN4037": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4037",
+        "title": "Accountancy with Langs (Russian) RUSSIAN4037"
+    },
+    "RUSSIAN4036": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4036",
+        "title": "Russian Honours Subsidiary Language (Non-Arts) RUSSIAN4036"
+    },
+    "RUSSIAN4031": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4031",
+        "title": "Russian Honours Spoken Language (Senior) RUSSIAN4031"
+    },
+    "RUSSIAN4030": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4030",
+        "title": "Russian Honours Spoken Language (Junior) RUSSIAN4030"
+    },
+    "RUSSIAN4033": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4033",
+        "title": "Russian Honours Written Language (Junior) RUSSIAN4033"
+    },
+    "RUSSIAN4032": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4032",
+        "title": "Russian Honours Spoken Language (year 1 exit) RUSSIAN4032"
+    },
+    "RUSSIAN3001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN3001",
+        "title": "Russian 3 Language and Culture RUSSIAN3001"
+    },
+    "RUSSIAN4008": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4008",
+        "title": "The Russian Novel RUSSIAN4008"
+    },
+    "RUSSIAN3002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN3002",
+        "title": "Russian 3 Language RUSSIAN3002"
+    },
+    "RUSSIAN4009": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4009",
+        "title": "The Russian Novel In English Translation RUSSIAN4009"
+    },
+    "RUSSIAN2002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN2002",
+        "title": "Russian 2 (January Exit) RUSSIAN2002"
+    },
+    "RUSSIAN2001": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN2001",
+        "title": "Russian 2 RUSSIAN2001"
+    },
+    "RUSSIAN5007": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5007",
+        "title": "Russian For Social Scientists (Post-Intermediate) RUSSIAN5007"
+    },
+    "RUSSIAN5025": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5025",
+        "title": "English into Russian Advanced Translation and Language Study 1 RUSSIAN5025"
+    },
+    "RUSSIAN5024": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5024",
+        "title": "PG Intermediate Russian RUSSIAN5024"
+    },
+    "RUSSIAN5026": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5026",
+        "title": "English into Russian Advanced Translation and Language Study 2 RUSSIAN5026"
+    },
+    "RUSSIAN5021": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5021",
+        "title": "PG Advanced Russian RUSSIAN5021"
+    },
+    "RUSSIAN5023": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5023",
+        "title": "PG BEGINNER RUSSIAN 2 RUSSIAN5023"
+    },
+    "RUSSIAN5022": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5022",
+        "title": "PG BEGINNER RUSSIAN 1 RUSSIAN5022"
+    },
+    "RUSSIAN4002": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4002",
+        "title": "Russian 20th Century Visual Culture RUSSIAN4002"
+    },
+    "RUSSIAN5004": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5004",
+        "title": "Russian For Social Scientists (Advanced) RUSSIAN5004"
+    },
+    "RUSSIAN5029": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN5029",
+        "title": "Russian for Social Scientists Post- Intermediate Semester 2 RUSSIAN5029"
+    },
+    "RUSSIAN4005": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4005",
+        "title": "Russian Poetry, Drama & Shorter Prose RUSSIAN4005"
+    },
+    "RUSSIAN4006": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4006",
+        "title": "Subsidiary Russian Language (Beginners) RUSSIAN4006"
+    },
+    "RUSSIAN4007": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4007",
+        "title": "Subsidiary Russian Language (Intermediate) RUSSIAN4007"
+    },
+    "RUSSIAN4035": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4035",
+        "title": "Russian Honours Written Language (year 1 exit) RUSSIAN4035"
+    },
+    "RUSSIAN4034": {
+        "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=RUSSIAN4034",
+        "title": "Russian Honours Written Language (Senior) RUSSIAN4034"
+    }
+}
