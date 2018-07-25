@@ -22,5 +22,5 @@ for subject in subs_html:
 for k, v in subjectareas.items():
     print(k, v)
 
-f = open('data/subjectareas.json', 'w+')
+f = open('scrapers/data/subjectareas.json', 'w+')
 json.dump(subjectareas, f)
