@@ -36,16 +36,25 @@ for code in codes:
             else:
                 infos.append(l[1])
 
+    
+
     coursedetail = dict(zip(keys, infos))
     for k, v in coursedetail.items():
         if not k == ('code' or 'title'):
             courses[code][k] = v
+
+    try:
+        desc = maindiv.find_all('p')[1].text
+        courses[code]['desc'] = desc
+    except:
+        print('Description error on course: ' + code)
+        pass
     
     print(len(codes) - barcounter)
     barcounter += 1
-    
+ 
     
 
 path = 'scrapers/data/courses.json'
 f = open(path, 'w+')
-json.dump(courses, f)          
+json.dump(courses, f)   
